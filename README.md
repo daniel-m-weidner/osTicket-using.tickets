@@ -7,8 +7,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Operational Necessities</h2>
 
-- Microsoft Azure (Virtual Machines/Compute) (local VM optional)
-- Remote Desktop
+- Microsoft Azure (personal Virtual Machine platform of choice) (local VM optional)
 - Internet Information Services (IIS) (contained within Windows)
 
 <h2>Operating System</h2>
