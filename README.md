@@ -12,7 +12,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Operating System</h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b>
 
 <h2>Overview of the full Ticket cycle</h2>
 
