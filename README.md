@@ -17,8 +17,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Overview of the full Ticket cycle</h2>
 
-- Intake
-- Assignment and Communication
+- End-User Ticket Creation
+- Internal communication and assigning work properly
 - Working the Issue
 - Resolution
 
@@ -32,8 +32,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/utprG3Z.png" height="95%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-...
-</p>
+To Start off, I recommend attempting a login using one of your agent logins that we have created and to get a feel for things. If you run into issues or you cannot recall the password for an agent, you always have the ability to log back in with your admin account and you will be able to manage all agents, including a change of password. Next,
 <br />
 ...
 <p>
