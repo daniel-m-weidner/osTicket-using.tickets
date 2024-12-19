@@ -5,22 +5,22 @@
 <h1>osTicket: Tickets, Experimentation & Realistic Applications</h1>
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
-<h2>Environments and Technologies Used</h2>
+<h2>Operational Necessities</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines/Compute) (local VM optional)
 - Remote Desktop
-- Internet Information Services (IIS)
+- Internet Information Services (IIS) (contained within Windows)
 
-<h2>Operating Systems Used </h2>
+<h2>Operating System</h2>
 
 - Windows 10</b> (21H2)
 
 <h2>Overview of the full Ticket cycle</h2>
 
 - End-User Ticket Creation
-- Internal communication and assigning work properly
-- Working the Issue
-- Resolution
+- Internal communication and work assignment
+- Actively working the issue/ Follow-ups
+- Resolved issue/Report
 
 <h2>Step by Step Showcase</h2>
 
@@ -32,7 +32,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/utprG3Z.png" height="95%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To Start off, I recommend attempting a login using one of your agent logins that we have created and to get a feel for things. If you run into issues or you cannot recall the password for an agent, you always have the ability to log back in with your admin account and you will be able to manage all agents, including a change of password. Next,
+<p>
+<img src="https://i.imgur.com/b9uQqWT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+To Start off, I recommend attempting a login using one of your agent logins that we have created and to get a feel for things. If you run into issues or you cannot recall the password for an agent, you always have the ability to log back in with your admin account and within the Admin panel, you will be able to manage all agents, including the ability of changing the password. Next, it is now time to create some tickets. For this, go to the enduser portal, where tickets can be created. The default page for this should always be under http://localhost/osTicket/. Once there, you select "Open a new Ticket". As mentioned in my previous tutorial, you will need to enter both the Name and email of the user now.
 <br />
 ...
 <p>
