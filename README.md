@@ -40,7 +40,7 @@ To Start off, I recommend attempting a login using one of your agent logins that
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now it's time to login as an agent.
+
 </p>
 <br />
 
@@ -48,6 +48,6 @@ Now it's time to login as an agent.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-...
+Now it's time to login as an agent.
 </p>
 <br />
