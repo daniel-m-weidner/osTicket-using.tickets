@@ -78,4 +78,7 @@ Now let's look at the information given in a real help desk context. You will se
 </p>
 <p>
 As we are now actively working on this ticket, let's post a reply. Describe your plan to fix the issue and what might come next. Afterwards, document your resolution to the issue that you might have discovered in your case example in a separate reply. The ticket resolution has been reached and as a result, you can now edit the ticket status, click on "Resolved" at the top. You will be ableto provide an internal comment about the completion if you would like. Right as you close the ticket, you will now be returned to the tickets page and the list will be empty now. At the top, open, closed ,personal tickets and more can be shown, and you will find your resolved ticket at the closed section. I highly suggest thinking of more tickets that could be worked on to get used to the whole system and how to use all the functions. If you are finished and would not like to keep going or practicing more, I recommend deleting the virtual machine in azure now, otherwise, you may stop the VM for now to return to it later. 
+</p>
+<br />
+  
 This concludes my tutorials for setting up osTicket all the way to the everyday use of the ticketing system and working tickets to their resolution.
