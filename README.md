@@ -56,21 +56,26 @@ Now it's time to login as an agent. Use your personally created info to log into
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/MFDn3zW.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MFDn3zW.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <p>
-<img src="https://i.imgur.com/KAppvfU.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KAppvfU.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now let's look at the information given in a real help desk context. You will see the user's contact infomation, in many cases also the phone number. If the matter is urgent, or if you have more questions, it is best to call the user/customer to get a live update on the situation, in some cases an email can be sent as well, however communication through phone calls is often crucial to this position. Now obsever the SLA plan. It isset to a default SLA as none has been assigned so far. Click on the current plan and you will be able to select your created SLA's. As I have deemed as this agent, this ticket is of standard importance, I will select Priority three. You will have the opporetunity to provide your reasoning for selecting the SLA. Click on "Update". Feel free to update more parts of the ticket based on the severity of the issue. As you can see, the ticket is not assigned to a specific agent or team, click on "Unassigned". This time, let's take this ticket as the currently active agent. We can leave a comment that I, as an agent will now take care of this issue.
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Oq1iN6g.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CNqe4bO.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-As we are now actively working on this ticket, let's post a reply. Describe your plan to fix the issue and what might come next.
+<p>
+<img src="https://i.imgur.com/u4PNcxE.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+As we are now actively working on this ticket, let's post a reply. Describe your plan to fix the issue and what might come next. Afterwards, document your resolution to the issue that you might have discovered in your case example in a separate reply. The ticket resolution has been reached and as a result, you can now edit the ticket status, click on "Resolved" at the top. You will be ableto provide an internal comment about the completion if you would like. Right as you close the ticket, you will now be returned to the tickets page and the list will be empty now. At the top, open, closed ,personal tickets and more can be shown, and you will find your resolved ticket at the closed section. I highly suggest thinking of more tickets that could be worked on to get used to the whole system and how to use all the functions. If you are finished and would not like to keep going or practicing more, I recommend deleting the virtual machine in azure now, otherwise, you may stop the VM for now to return to it later. 
+This concludes my tutorials for setting up osTicket all the way to the everyday use of the ticketing system and working tickets to their resolution.
